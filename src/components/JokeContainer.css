@@ -1,0 +1,26 @@
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+.error {
+    color: #E74C3C; /* Red */
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
+button {
+    background-color: #2980B9; /* Blue */
+    color: #ECF0F1; /* Light gray */
+    border: none;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+button:hover {
+    background-color: #3498DB; /* Lighter blue */
+  }

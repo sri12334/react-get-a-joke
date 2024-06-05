@@ -1,0 +1,9 @@
+header {
+    background-color: #2C3E50; /* Dark blue-gray */
+    color: #ECF0F1; /* Light gray */
+    text-align: center;
+    padding: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
